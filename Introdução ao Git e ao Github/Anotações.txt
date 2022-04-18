@@ -1,0 +1,6 @@
+Links para downloads:
+Git: https://git-scm.com/downloads
+VsCode: https://code.visualstudio.com/
+ 
+
+Está sendo usado o terminal do editor de texto VScode para otimizar o uso do Git.
